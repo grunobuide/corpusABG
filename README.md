@@ -7,7 +7,7 @@ Além disso, uma versão final com a lista de palavras e suas informações rele
 
 O formato da tabela final é o seguinte (colunas separadas por vírgulas):
 
-Palavra ......
+[Índice da palavra, palavra ortográfica, categoria morfológica, lema, transcrição fonológica, transcrição fonológica acentuada, estrutura silábica, categoria acentual, frequência no corpus geral, frequência no corpus oral, frequência no corpus escrito, nível de frequência]
 
 Os scripts disponíveis e suas respectivas funções são as seguintes: 
 
